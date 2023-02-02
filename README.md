@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML engineering and Machine learning.
 - 👯 I’m looking to collaborate on Machine Learning 
 - 🤔 I’m looking for job in same field
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-mishra-2a15871b0/) or piyushmishra898@gmail.com
+- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-mishra-2a15871b0/)
+-                      or
+-                      piyushmishra898@gmail.com
 - ⚡ Fun fact: After gaining a basic understanding of AI and ML, I will always be in a position of "🌱 I’m currently learning ML engineering and Machine learning".
 
 ## 🛠 Skills
