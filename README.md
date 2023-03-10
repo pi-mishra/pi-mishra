@@ -17,6 +17,7 @@
 - Regression Project- [Rossmann Sales prediction](https://github.com/pi-mishra/Rossmann-Sales-Prediction-Regression-)
 - Classification- [Health Insurance Cross Sell Prediction](https://github.com/pi-mishra/HEALTH-INSURANCE-CROSS-SELL-PREDICTION)
 - Tableau Dashboard- [Netflix Movies and Show](https://public.tableau.com/app/profile/piyush.mishra2889/viz/NetflixmovieandTVseriesdashboard/Netflix)
+- Excel Dashboard- [Vrinda Store Data analysis](https://1drv.ms/x/s!AvRx2EtQhwQXgi9L3G8LII5_aABN?e=sJe8Ku)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
