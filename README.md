@@ -4,7 +4,7 @@
 <h3 align="center">I am a data scientist with a passion for uncovering insights and solving problems through the use of data. I have experience in a wide range of industries, including finance, healthcare, and e-commerce. My skills include machine learning, statistical modeling, data visualization, and programming in Python. I have a strong background in mathematics and statistics, as well as a deep understanding of both structured and unstructured data. In addition to my technical skills, I am a strong communicator and enjoy working with cross-functional teams to turn data into actionable insights. I am always seeking new challenges and opportunities to expand my knowledge and skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*d7QeSREErtMuJQ0bcptMXQ.gif">
 
-- 🔭 I’m currently working on [Health Insurance cross sell prediction](https://github.com/pi-mishra/HEALTH-INSURANCE-CROSS-SELL-PREDICTION)
+- 🔭 I’m currently working on [Zomato Restaurant Clustering And Sentiment Analysis](https://github.com/pi-mishra/Zomato-Restaurant-Clustering-And-Sentiment-Analysis/blob/main/Zomato_Restaurant_Clustering_And_Sentiment_Analysis.ipynb)
 
 - 🌱 I’m currently learning **ML engineering and Azure**
 
