@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **piyushmishra898@gmail.com**
 
+<h3 align="left">Skills:</h3>
+Python , SQL , Power Bi , Tableau , Dax , M Language 
 
 
 <h3 align="left">Project Link:</h3>
