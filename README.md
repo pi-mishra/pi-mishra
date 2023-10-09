@@ -11,7 +11,7 @@
 - Tableau Dashboard- [Netflix Movies and Show](https://public.tableau.com/app/profile/piyush.mishra2889/viz/NetflixmovieandTVseriesdashboard/Netflix)
 - Excel Dashboard- [Vrinda Store Data analysis](https://1drv.ms/x/s!AvRx2EtQhwQXgi9L3G8LII5_aABN?e=sJe8Ku)
 - PowerBi Dashboard- [PowerBi](https://github.com/pi-mishra/PowerBi_dashboard)
-- I’m currently working on [Zomato Restaurant Clustering And Sentiment Analysis](https://github.com/pi-mishra/Zomato-Restaurant-Clustering-And-Sentiment-Analysis/blob/main/Zomato_Restaurant_Clustering_And_Sentiment_Analysis.ipynb)
+- KPMG Internship- [PowerBi and Python](https://github.com/pi-mishra/KPMG_internship/tree/main)
 
 <h3 align="left">Skills:</h3>
 Python , SQL , Power Bi , Tableau , Dax , M Language 
