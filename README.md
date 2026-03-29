@@ -80,10 +80,6 @@ piyush = {
   <a href="https://linkedin.com/in/pi-mishra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-pi--mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:piyushmishra898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-piyushmishra898-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
 
 > *"Data tells you what happened. Product intuition tells you what to do next. I live in that intersection."*
